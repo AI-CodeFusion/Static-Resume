@@ -1,0 +1,50 @@
+#resume-body{
+    padding: 50px;
+    margin: 100px;
+    background-color: #a3b18a;
+    border-radius: 10px;
+}
+
+#name{
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+    color: #3a5a40;
+}
+
+#headline{
+    margin: 0;
+    padding:0;
+}
+
+#Picture{
+    height: 180px;
+    width: 300px;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+h2{
+    margin-bottom: 0;
+}
+
+#HorizontalLine{
+    border: 1px #3a5a40 solid;
+    margin: 20px 0px;
+}
+
+h2{
+    margin-bottom: 0;
+    
+}
+
+h3{
+    margin: 1px 0px 1px 0px;
+}
+
+#Toggle-button{
+    background-color: #3a5a40;
+    height: 35px;
+    width: 120px;
+    border-radius: 4px;
+    display: block;
+}
